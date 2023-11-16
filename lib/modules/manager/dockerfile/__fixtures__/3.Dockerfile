@@ -1,6 +1,6 @@
  ARG \
 	# multi-line arg
-   ALPINE_VERSION=alpine:3.15.4
+   ALPINE_VERSION=alpine:3.16.7
 
 FROM \
 ${ALPINE_VERSION} as stage1
